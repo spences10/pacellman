@@ -6,7 +6,7 @@
 
 ![](img/pacman.gif)
 
-I have unpacked this with my [VBA-IDE-Code-Export](https://github.com/spences10/VBA-IDE-Code-Export) tool, if you want to have the binary go to the releases and download it from there.
+I have unpacked this with my [VBA-IDE-Code-Export](https://github.com/spences10/VBA-IDE-Code-Export) tool, if you want to have the binary go to the releases and download it from [there](https://github.com/spences10/pacellman/releases/tag/1.0.0).
 
 This was made in Microsoft Excel 2003, an awesome acheivement! 
 
