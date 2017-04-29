@@ -18,4 +18,4 @@ Heres a pic of the site:
 
 I lay no claim to this, I have found this on an old external hard drive from an old job back in 2007, this is not my content if you are the owner and you do not want this being shared then I will respect your wishes  
 
-Thanks you mysterious contributor from the past :+1:
+Thank you mysterious contributor from the past :+1:
