@@ -10,7 +10,7 @@ I have unpacked this with my [VBA-IDE-Code-Export](https://github.com/spences10/
 
 This was made in Microsoft Excel 2003, an awesome achievement!
 
-There is a link to what appears to be called [VBA Action game](http://www1.plala.or.jp/chikada/index.htm)
+There is a link to the site [VBA Action game](http://www1.plala.or.jp/chikada/index.htm)
 
 Heres a pic of the site:
 
@@ -18,12 +18,16 @@ Heres a pic of the site:
 
 Thanks to [Nathan Piercy](https://twitter.com/nathanprocks) for confirming the author as 'Nobuya Chikada' links for this can be found [here](http://web.archive.org/web/20100505141436/http://www.geocities.jp:80/nchikada/pac/index.htm) detailing his name, it's also quite clearly marked in `Module1.bas`! screenshots here:
 
-![](img/confirmaition.png
+![](img/confirmaition.png)
 
 ![](img/module1.png)
 
-~~As the only reference I have to the origin of this code is to the site linked and the owner of that site 'Nobuya Chikada' therefore I see fit that this name should be what is added to the license unless I'm otherwise instructed by the source owner to do so.~~
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ScottDevTweets">@ScottDevTweets</a> <a href="https://twitter.com/MarcLittlemore">@MarcLittlemore</a> <a href="https://twitter.com/amanhimself">@amanhimself</a> <a href="https://twitter.com/ossia">@ossia</a> <a href="https://twitter.com/kyleshevlin">@kyleshevlin</a> I should have mentioned that he is *definitely* the author (source: <a href="https://t.co/TFn3XlqJ9A">https://t.co/TFn3XlqJ9A</a>). His name is also in the comment in Module1.bas</p>&mdash; Nathan Piercy (@nathanprocks) <a href="https://twitter.com/nathanprocks/status/859668882784571392">May 3, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-~~I lay no claim to this, I have found this on an old external hard drive from an old job back in 2007, this is not my content if you are the owner and you do not want this being shared then I will respect your wishes~~
+This looks like a great resource if you want more retro games, also Nathan linked a book for VBA Game creation, looks to be a bargain @~£76 :+1:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ScottDevTweets">@ScottDevTweets</a> <a href="https://twitter.com/MarcLittlemore">@MarcLittlemore</a> <a href="https://twitter.com/amanhimself">@amanhimself</a> <a href="https://twitter.com/ossia">@ossia</a> <a href="https://twitter.com/kyleshevlin">@kyleshevlin</a> Another interesting thing: this book about Excel VBA game creation: <a href="https://t.co/SpGD5xfwP0">https://t.co/SpGD5xfwP0</a><br>Too bad I can&#39;t read Japanese :/</p>&mdash; Nathan Piercy (@nathanprocks) <a href="https://twitter.com/nathanprocks/status/859669785612660736">May 3, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Thank you [not now so] mysterious contributor from the past :+1: **Nobuya Chikada**
